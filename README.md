@@ -14,11 +14,6 @@
 但是排隊排到天邊
 ![麥當勞](https://cc.tvbs.com.tw/img/program/upload/2020/11/04/20201104155314-cdb87dcb.jpg)
 
-## 菲菲是一隻貓
-![菲菲想睡1](images/Eu_Q-mZVEAIDijZ.jpg)
-![菲菲想睡2](images/Eu_Q_qpVoAEK9JP.jpg)
-![菲菲想睡3](images/Eu_RAysUUAAAvt6.jpg)
-![菲菲想睡4](images/Eu_RBziVoAUrVrD.jpg)
 
 Added on develop branch123
 branch123
