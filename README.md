@@ -12,3 +12,4 @@ Added on develop branch XXX
 Added on master branch
 >_0
 QQ
+![high cat and black people](https://media.giphy.com/media/l3q2RJBdaqJY2SV3O/giphy.gif)
