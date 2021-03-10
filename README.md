@@ -1,5 +1,5 @@
 # elite-web-demo-2
-syuan
+
 產業新尖兵 Web 基礎程式設計 示範專案
 
 Added on develop branch OOO
