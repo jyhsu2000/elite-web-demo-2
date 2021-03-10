@@ -3,7 +3,7 @@
 產業新尖兵 Web 基礎程式設計 示範專案
 
 Added on develop branch OOO
-Added on develop branch XXX
+Added on develop branch OOO
 123
 
 ![Cat](./image/cat.jpg)
